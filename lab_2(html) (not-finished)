@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css"   href="css/style(2).css" >
+    <title>Document</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Шапка сайта</h1>
+    </div>
+       <div class="sidebar">
+           <h4>Menu:</h4>
+           <ul>
+               <li><a href="#">abc</a></li>
+               <li><a href="#">abc</a></li>
+               <li><a href="#">abc</a></li>
+               <li><a href="#">abc</a></li>
+               <li><a href="#">abc</a></li>
+               <li><a href="#">abc</a></li>
+           </ul>
+        </div>
+        <div class="sidebar1">
+            <h4>News:</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum accusamus ea velit quis. Delectus dignissimos maiores modi quisquam sint omnis in numquam rerum suscipit? Eaque repellendus eos recusandae veniam temporibus ex numquam illo quos maiores tenetur porro repudiandae nulla totam ea, quidem fugit quibusdam ab accusantium, aliquam beatae illum dolorem!</p>
+        </div>
+        <div class="container">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita doloribus, repellendus totam alias ea aliquid facere mollitia aperiam architecto aspernatur beatae porro, cupiditate, odio consectetur sit sequi sint amet suscipit voluptas obcaecati. Cupiditate quo tempore eum fugiat voluptate sit molestiae totam cum cumque inventore praesentium quasi itaque consequatur quibusdam provident aut iusto iure eius, dolorem blanditiis fuga quas voluptatibus et magnam! Praesentium quisquam quidem dolor, fugiat quas expedita doloremque porro. Amet, cumque deserunt accusantium qui, neque eos odio assumenda quos perferendis quibusdam obcaecati deleniti minima voluptas incidunt laudantium totam soluta nobis aliquam corrupti mollitia. Et minus laboriosam dolores non repudiandae odio, quidem ipsam libero unde quisquam incidunt quos eius maiores dignissimos, sequi qui debitis possimus iure tenetur at sunt ad minima. Natus consectetur similique eaque ipsam animi ullam molestias facilis molestiae numquam dicta, nihil aspernatur nobis quas praesentium minima vero voluptas minus officia ad nostrum accusantium! Distinctio placeat fugiat voluptatibus.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit tempore rem, quae, doloremque ullam beatae, eos dolorum nemo aut accusantium recusandae at. Esse nostrum odit, culpa placeat pariatur nulla iusto, animi ad suscipit tempora assumenda dicta eius sapiente perferendis iure, expedita sequi natus sunt repudiandae. Recusandae maxime ullam alias quod, pariatur labore eaque amet laudantium, delectus ex corporis sunt, suscipit illum rem eveniet. Distinctio quas, iure quasi aperiam quibusdam, voluptatum dolor dolore, nemo veniam maxime necessitatibus dolorem! Illo tenetur eius veniam inventore non? Cumque ullam laborum dolorem qui est cum consequuntur laudantium, quod omnis labore nesciunt molestias eveniet pariatur laboriosam adipisci vitae quis incidunt debitis reiciendis temporibus itaque consectetur modi explicabo. Earum ullam quis error exercitationem rerum? Sed, nihil atque consectetur aliquam accusantium harum recusandae itaque? Sed officia accusantium quam laborum exercitationem cupiditate tempore nostrum atque, consectetur deleniti voluptatem voluptatum at corrupti aliquam possimus. Consectetur saepe repellat numquam ex eius.</p>
+        </div>
+        <div class="footer">Copyright 2018 C. All rights reserved</div>
+    
+</body>
+</html>
